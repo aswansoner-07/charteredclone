@@ -25,6 +25,13 @@ const TrackCargo = () => {
           alt="Tracking"
         />
       </div>
+         {/* <video className='w-72 h-72' controls>
+              <source src={vi}  type='video/mp4'/>
+            </video> */}
+            {/* <div className='p-4'>
+      
+            <BootSlider/>
+            </div> */}
     </div>
   );
 };
